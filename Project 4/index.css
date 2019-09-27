@@ -1,0 +1,49 @@
+/* Stylesheet */  
+body { 
+    background-color: plum; 
+    height: 2em; 
+    padding: 2em 3em; 
+        
+    
+    }
+    header { 
+        height: 2em; 
+        padding: 1em 3em; 
+     
+    
+    }
+
+    header h1 { 
+        text-align: center; 
+        font-size: 5em; 
+        text-shadow: 4px 4px 4px 4px #000; 
+
+
+    }
+    
+    nav {
+        background-color: rgb(208, 223, 252);  
+        height: 2em; 
+        padding: 2em 3em; 
+    
+    }
+
+    nav a { 
+        display: block; 
+        float:left; 
+    }
+    
+    main { 
+        background-color: lightgrey;
+        height: 2em; 
+        padding: 2em 3em; 
+        
+    
+    }
+    
+    footer {
+        background-color: lightgoldenrodyellow; 
+        height: 2em; 
+        padding: 2em 3em; 
+    
+    }
